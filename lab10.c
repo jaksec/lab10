@@ -81,7 +81,7 @@ Trie *deallocateTrie(Trie *pTrie)
 
 int main(void)
 {
-    //read the number of the words in the dictionary
+    // read the number of the words in the dictionary
     // parse line  by line, and insert each word to the trie data structure
 
     char *pWords[] = {"notaword", "ucf", "no", "note", "corg"};
